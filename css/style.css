@@ -1,0 +1,31 @@
+body {
+	background-color: #37ccba;
+}
+#quote-box {
+	background-color: #FFF;
+	color: #37ccba;
+	width: 500px;
+	padding: 20px;
+	margin: 10% auto;
+}
+.content {
+	font-size: 20px;
+}
+.author {
+	font-size: 15px;
+	text-align: right;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+.btn {
+	background-color: #37ccba;
+	color: #FFF;
+	cursor: pointer;
+}
+#new-quote {
+	margin-left: 130px;
+}
+.footer {
+	color: #FFF;
+	font-size: 14px;
+}
